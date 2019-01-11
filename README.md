@@ -15,28 +15,28 @@ Script 2:
 ## How to use? Stappenplan voor de gebruiker na downloaden:
 
 Stap 1:
-![Titelscript](img/titelscript_1.jpg)
+![Titelscript](img/titelscript_1.JPG)
 
 Stap 2:
-![Titelscript](img/titelscript_2.jpg)
+![Titelscript](img/titelscript_2.JPG)
 
 Stap 3:
 ![Titelscript](img/titelscript_3.jpg)
 
 Stap 4:
-![Titelscript](img/titelscript_4.jpg)
+![Titelscript](img/titelscript_4.JPG)
 
 Stap 5:
-![Titelscript](img/titelscript_5.jpg)
+![Titelscript](img/titelscript_5.JPG)
 
 Stap 6:
-![Titelscript](img/titelscript_6.jpg)
+![Titelscript](img/titelscript_6.JPG)
 
 Voorbeeld:
-![Titelscript](img/titelscript_7.jpg)
+![Titelscript](img/titelscript_7.JPG)
 
 Voorbeeld:
-![Titelscript](img/titelscript_8.jpg)
+![Titelscript](img/titelscript_8.JPG)
 
 
 
